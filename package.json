@@ -1,0 +1,17 @@
+{
+  "name": "mr-coffee---contact-page-and-form",
+  "version": "1.0.0",
+  "description": "This is simple internet page for small cafe made as a part of exercise during INCODE course.",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.2"
+  },
+  "scripts": {
+    "lint": "eslint src/",
+    "lint:fix": "eslint --fix src/"
+  },
+  "author": "EJK",
+  "license": "ISC"
+}
